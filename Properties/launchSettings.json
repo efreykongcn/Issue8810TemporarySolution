@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Issue8810TemporarySolution (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Issue8810TemporarySolution (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
