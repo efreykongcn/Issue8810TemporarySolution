@@ -58,3 +58,9 @@ See [#8810](https://github.com/microsoft/microsoft-ui-xaml/issues/8810)
       this.AddOtherProvider(new CommunityToolkit.WinUI.Controls.SettingsControlsRns.CommunityToolkit_WinUI_Controls_SettingsControls_XamlTypeInfo.XamlMetaDataProvider());
   }
 ```
+
+## Solution 2
+
+Upgrade community toolkit packages to [Community toolkit preview packages](https://aka.ms/wct/wiki/previewpackages).
+
+Using `https://pkgs.dev.azure.com/dotnet/CommunityToolkit/_packaging/CommunityToolkit-PullRequests/nuget/v3/index.json` for package source.
